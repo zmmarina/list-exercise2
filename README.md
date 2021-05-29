@@ -6,6 +6,6 @@
 <h3>:telescope: Future features</h3>
 <ul>
 <li>Other letters than "y" or "n" will not be accepted as a valid answer</li>
-<li>Create a system of points that relates questions and gravity</li>
+<li>Create a system of points that relates questions and seriousness</li>
 </ul>
 
